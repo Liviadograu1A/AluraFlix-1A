@@ -49,4 +49,9 @@ ing{
 
 .categoria-vídeos img {
     opacity: 0.5;
+    height: 200;
+}
+
+.categoria-vídeos img:hover {
+    opacity: 1.0;
 }
